@@ -1,5 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "COLLE ICI LE LIEN DIRECT DU ZIP DU LAUNCHER (dossier publish zippe)",
-  "notes": "Nouveau : bouton 🛠 sur chaque build pour verifier et reparer les fichiers (seuls les fichiers abimes sont retelecharges)."
+  "version": "2.0.0",
+  "installer": "COLLE ICI LE LIEN DIRECT DE EdaLauncher-Setup-2.0.0.0.exe (GitHub Releases par exemple)",
+  "url": "COLLE ICI LE LIEN DIRECT DE EdaLauncher-2.0.0.zip (pour les launchers installes sans setup)",
+  "notes": "3D skin preview with your EDA styles (hover a style to preview it). New PLAY button (shows preparing, download, in-game timer, maintenance) and animated event banner. New installer (shortcuts, uninstall, start with Windows). Launcher in English by default + French, Spanish, Portuguese, German. Server status, Windows notifications, maintenance screen."
 }
